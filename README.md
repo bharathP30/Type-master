@@ -2,6 +2,9 @@
 
 A clean, minimalist typing speed test built with vanilla JavaScript. Test your typing speed and accuracy with random quotes, track your progress, and improve over time!
 
+## 🚀 Demo
+Live Demo : https://type-master-p30.netlify.app/
+
 ## ✨ Features
 
 - **Real-time Timer** - Starts automatically when you begin typing
@@ -12,9 +15,6 @@ A clean, minimalist typing speed test built with vanilla JavaScript. Test your t
 - **Random Quotes** - Practice with different phrases each time
 - **Dark Theme** - Easy on the eyes for extended practice sessions
 
-## 🚀 Demo
-
-![Typing Speed Test Screenshot](screenshot.png)
 
 ## 🎯 How It Works
 
