@@ -1,6 +1,6 @@
 # ⌨️ Typing Speed Test
 
-A clean, minimalist typing speed test built with vanilla JavaScript. Test your typing speed and accuracy with random quotes, track your progress, and improve over time!
+Test your typing speed and accuracy with random quotes, track your progress, and improve over time!
 
 ## 🚀 Demo
 Live Demo : https://type-master-p30.netlify.app/
